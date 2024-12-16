@@ -12,7 +12,7 @@ Example Settings: [Example Settings](https://mega.nz/file/Yr1xGJ7I#Y6Cn5PVZgPzn5
 
 ## Wiki
 
-You can find the wiki here or at the top of the page. The wiki contains information about the miner and all of its features, it also has some answers to frequently asked questions.
+You can find the wiki [here](https://web.archive.org/web/20230325085852/https://github.com/UnamSanctam/SilentCryptoMiner/wiki). The wiki contains information about the miner and all of its features, it also has some answers to frequently asked questions.
 
 ## Web Panel
 
