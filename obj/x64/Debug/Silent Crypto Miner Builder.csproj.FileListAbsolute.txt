@@ -1,0 +1,15 @@
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\Silent Crypto Miner Builder.csproj.AssemblyReference.cache
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\SilentCryptoMiner.AdvancedOptions.resources
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\SilentCryptoMiner.AlgorithmSelection.resources
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\SilentCryptoMiner.Builder.resources
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\SilentCryptoMiner.MinerETH.resources
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\SilentCryptoMiner.MinerXMR.resources
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\SilentCryptoMiner.Properties.Resources.resources
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\Silent Crypto Miner Builder.csproj.GenerateResource.cache
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\Silent Crypto Miner Builder.csproj.CoreCompileInputs.cache
+C:\Users\KK\Desktop\SilentCryptoMiner\bin\x64\Debug\Silent Crypto Miner Builder.exe.config
+C:\Users\KK\Desktop\SilentCryptoMiner\bin\x64\Debug\Silent Crypto Miner Builder.exe
+C:\Users\KK\Desktop\SilentCryptoMiner\bin\x64\Debug\Silent Crypto Miner Builder.pdb
+C:\Users\KK\Desktop\SilentCryptoMiner\bin\x64\Debug\Silent Crypto Miner Builder.xml
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\Silent Crypto Miner Builder.exe
+C:\Users\KK\Desktop\SilentCryptoMiner\obj\x64\Debug\Silent Crypto Miner Builder.pdb
