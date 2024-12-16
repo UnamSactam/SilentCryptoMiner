@@ -1,6 +1,6 @@
 ![SilentCryptoMiner](https://github.com/user-attachments/assets/168a131e-e70e-4c03-bc55-67523538a69e)
 
-# SilentCryptoMiner v4.1.0 - Miner for ETH, ETC, XMR, RTM & many more
+# SilentCryptoMiner v3.4.1 - Miner for ETH, ETC, XMR, RTM & many more
 
 A free silent (hidden) native cryptocurrency miner capable of mining ETH, ETC, XMR, RTM and much more, with many features suited for mining silently.
 
