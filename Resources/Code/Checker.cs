@@ -23,13 +23,12 @@ public partial class Checker
 #if DefWatchdog
             Console.WriteLine("Watchdog Running: " + (CheckMutex("Global\\#WATCHDOGID") ? "Yes" : "No"));
 #endif
-            Console.WriteLine("Miners:");
             string[][] minerset = new string[][] { $CHECKERSET };
             foreach (string[] miner in minerset)
             {
                 if (CheckMutex("Global\\"+miner[0]))
                 {
-                    Console.WriteLine(Encoding.Unicode.GetString(Convert.FromBase64String(miner[1])));
+                    Console.WriteLine("Miner is running");
                 }
             }
 
